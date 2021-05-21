@@ -4,3 +4,6 @@ Used the dense optical flow image of apex frame with reference to the first fram
 
 Used leave one subject out method for testing and training.
 
+Steps:
+Use Casme_dense_alpha to get the dense optical flow dataset of the sequences 
+Then run the casme_img_none-Apex-3-multiproc 
